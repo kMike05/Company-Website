@@ -325,7 +325,7 @@ function initializeColorSchemes() {
         },
         ocean: {
             primary: '#006B96',
-            secondary: '#0288D1',
+            secondary: '#fffff',
             accent: '#26C6DA',
             success: '#00ACC1',
             info: '#29B6F6',
